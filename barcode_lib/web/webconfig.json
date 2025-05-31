@@ -1,0 +1,14 @@
+{
+  "priority": [
+    "lider.cl",
+    "jumbo.cl",
+    "santaisabel.cl",
+    "unimarc.cl"
+  ],
+  "blacklist": [
+    "support.google.com",
+    "facebook.com",
+    "youtube.com"
+  ]
+}
+
